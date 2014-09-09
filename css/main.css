@@ -55,6 +55,7 @@ img {
 
 .block{
 	list-style-type:none;
+	overflow:hidden;
 }
 
 .item{
