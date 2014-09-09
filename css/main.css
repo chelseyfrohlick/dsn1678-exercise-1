@@ -60,9 +60,16 @@ img {
 .item{
 	float:left;
 	margin-right: 4em;
-	border-right: solid 2px #808080;
+	border-right: solid 1px #808080;
 	padding-right: 1em;
 }
 
+.border{
+	border-radius: 15px;
+	background-color:#FFFFFF;
+}
 
+.background{
+	background-color:#B4B4B4;
+}
 
