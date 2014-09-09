@@ -43,6 +43,7 @@ img {
 
 .title{
 	margin-left: 1em;
+	color:#520001;
 }
 
 .term{
@@ -53,8 +54,15 @@ img {
 }
 
 .block{
-	display:inline-block;
-	width:33.333%;
-	margin: 0 0;
+	list-style-type:none;
 }
+
+.item{
+	float:left;
+	margin-right: 4em;
+	border-right: solid 2px #808080;
+	padding-right: 1em;
+}
+
+
 
